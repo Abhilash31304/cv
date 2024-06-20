@@ -1,0 +1,24 @@
+body {
+  background-color: #BBE9FF;
+}
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: #219C90;
+  border-radius: 10;
+  height: 0px;
+  border-width: 5px;
+  width: 5%;
+}
+img {
+  width:200px;
+  height:200px;
+}
+h1 {
+  font-style: italic;
+  color: #005C78;
+}
+h3 {
+  font-style: italic;
+  color: #005C78;
+}
